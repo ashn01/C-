@@ -1,0 +1,7 @@
+1. safe empty state means to initialize empty variables to avoid pugnacious error when empty variable is used being compared or copied. When a program compare empty variable with something, the program will occur error. 
+I always set integer variable to zero or its meaning such as age = 26. I am used to initialize variables because when I declare variable, it must has reason. So, when I declare member variable, I set them in constructor.
+
+2. After creating array of Passenger, I do not have to initialize them again. It make the code simplify and I do not have to access private member variable from main function. if I have to access private member variables, I'd better make them public member variable which is not recommendable or use a function that can set them. 
+I use multiple constructors, therefore, I do not have to initialize them again.
+
+3. I've learned multiple constructors and check null pointer and check empty string.

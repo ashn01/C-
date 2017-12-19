@@ -1,0 +1,5 @@
+1. because health cannot be negative number. if we forced to assign it negatie number, it will express unexpected number.
+
+2. parents class does not have to know about the existence of the derived class. However, child class has to know about the existence of the parent class because child class uses derived member function from the parents and member variable.
+
+3. the child class automatically converted to parent class, so the result will be "AncientBattle" and we are supposed to make it.

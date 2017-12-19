@@ -1,0 +1,4 @@
+fstream http://www.cplusplus.com/reference/fstream/fstream/
+cin.getline http://www.cplusplus.com/reference/istream/istream/getline/
+
+I have searched about class and what it contains.

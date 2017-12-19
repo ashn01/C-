@@ -1,0 +1,3 @@
+1. if it is not deallocated, memory leak will happens.
+2. I have used dynamic memory in w2_at_home.cpp line number 36. I declared Kingdom pointer as static, but line 36, I declared it as dynamic. Also, I deallocted it line number 76. On the other hands, I have used static memory in kingdom.h line number 27. I declared m_name[32] as static.
+3. I have learned how to allocate dynamic memory and deallocate. deallocate dynamic memory is important because of memory leak. Also, I can give same name to functions.

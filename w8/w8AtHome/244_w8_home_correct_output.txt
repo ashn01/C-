@@ -1,0 +1,24 @@
+**************************
+DISPLAY Angelina Accounts:
+**************************
+Account type: Saving
+Balance: $ 400.00
+Interest Rate (%): 12.00
+-----------------------
+Account type: Checking
+Balance: $ 400.00
+Transaction Fee: 1.00
+**************************
+DEPOSIT $ 2000 $ into Angelina Accounts ...
+WITHDRAW $ 1000 and $ 500 from Angelina Accounts ...
+**************************
+DISPLAY Angelina Accounts:
+**************************
+Account type: Saving
+Balance: $ 1400.00
+Interest Rate (%): 12.00
+-----------------------
+Account type: Checking
+Balance: $ 1898.00
+Transaction Fee: 1.00
+-----------------------

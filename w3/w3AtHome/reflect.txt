@@ -1,0 +1,3 @@
+1. Encapsulation. Purpose of it is to re-use without revising. It means gathering functions and variables that are related to a Class. I used CreditCard class and it contains member functions and member variables.
+
+2. its condition means if myCC's function names isValid is false, loop the code again and display "Invalid input". when it returns(myCC.isValid == true) true, the loop statement ends. unsigned long long can store number up to 18 quintillion. 8 bytes long and it only contains positive number.

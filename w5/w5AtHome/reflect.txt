@@ -1,0 +1,6 @@
+1. After B+=E in cpp file, A and D are replaced with result of it.
+when it returns wrong value as an example, B contains right value but A and D contains the wrong value.
+
+2. compiler casts it as an Fraction because Fraction class has constructor that takes 2 integer arguments. But second argument is 1 if this constructor takes one argument. So, B+3 is B + Fraction(3).
+
+3. I've learned to use operator and how to return itself ,for example , return *this;. 

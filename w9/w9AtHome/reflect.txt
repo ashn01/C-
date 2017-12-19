@@ -1,0 +1,3 @@
+1. Yes, it works.
+2.Only the hard part is discover memory leak. I wanted to have my own libraries, but now I believe that using standard is safer and improved because my libraries are only verified by me;however, standard library is verified by many programmers in the world. which is more reliable?
+3. I have to set objects to the safe empty state. I have to deallocate memory at the end of the function. my class can add 2 strings without worrying whether data is lost. if I had had this class in my previous labs, I would have used this and might have finished labs earlier.

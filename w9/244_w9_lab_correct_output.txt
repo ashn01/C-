@@ -1,0 +1,22 @@
+Script started on Mon 27 Mar 2017 08:53:10 AM EDT
+Anakin.Skywalker@matrix:~/oop244/ws9/in_lab> ws
+Testing constructors
+PASS, Constructors!
+Testing bool operator
+PASS, operator bool().
+PASS: string length works
+testing operator+  :Hello World
+testing operator+= :Hello World
+PASS Operators test
+PASS Copy constructor test passes
+PASS: string concatenation up to 64 bytes
+Type in the following line
+the quick brown fox jumped over the lazy dog
+the quick brown fox jumped over the lazy dog
+PASS: iostream input
+testing output. Let the submit script confirm that the output matches your input.
+the quick brown fox jumped over the lazy dog
+Anakin.Skywalker@matrix:~/oop244/ws9/in_lab> exit
+exit
+
+Script done on Mon 27 Mar 2017 08:53:36 AM EDT

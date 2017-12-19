@@ -1,0 +1,10 @@
+
+In line number 215 of your output:
+The output should be:
+Goodbye!
+But your output is: 
+Good Bye
+    ^
+----|
+Professor's character ASCII code: hex(62), dec(98)
+un-matched character ASCII code: hex(20), dec(32)

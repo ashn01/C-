@@ -1,0 +1,5 @@
+1. abstract class is the class which declare member method but not define it because method will be defined by derived class. concrete class is the class which all method derived is defined and can make instance.
+
+2. Fure virtual function is not defined virtual function and the class belongs it is abstract class and cannot make instance. this function must be defined by derived class.
+
+3. how to use virtual function and inherit and what is virtual function, fure virtual function.

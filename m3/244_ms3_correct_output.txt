@@ -1,0 +1,101 @@
+Script started on Wed 22 Mar 2017 11:59:50 AM EDT
+Admiral.Ackbar@matrix:~/oop244/OOP-Milestone3> ms3
+Please enter the following informartion for Item:
+sku: 123<ENTER>
+name: abcd<ENTER>
+qty: 10<ENTER>
+is taxed? 1<ENTER>
+price 10.0<ENTER>
+Enter Item info: 
+sku: 123
+name: abcd
+qty: 10
+is taxed? (1/0): 1
+price: 10.0
+You entered: 
+-------------------------
+123: abcd
+Qty: 10
+Cost:11.30
+-------------------------
+Copying Item...
+%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99%100
+Copied Item:
+-------------------------
+123: abcd
+Qty: 10
+Cost:11.30
+-------------------------
+Original Item:
+-------------------------
+123: abcd
+Qty: 10
+Cost:11.30
+-------------------------
+Saving I1 in file:
+Loading Saved item into I2:
+Printing Loaded item from file:
+-------------------------
+123: abcd
+Qty: 10
+Cost:11.30
+-------------------------
+Assigning Item to another...
+%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99%100
+Assigned Item:
+-------------------------
+123: abcd
+Qty: 10
+Cost:11.30
+-------------------------
+Original Item:
+-------------------------
+123: abcd
+Qty: 10
+Cost:11.30
+-------------------------
+Testing operator==:
+Operator==() is OK
+
+Testing operator+=  I1+= 20...
+Original Item:
+-------------------------
+123: abcd
+Qty: 10
+Cost:11.30
+-------------------------
+After adding 20:
+-------------------------
+123: abcd
+Qty: 30
+Cost:11.30
+-------------------------
+returned value: 30
+Testing operator-=  I1-= 20...
+Original Item:
+-------------------------
+123: abcd
+Qty: 30
+Cost:11.30
+-------------------------
+After deducting 20:
+-------------------------
+123: abcd
+Qty: 10
+Cost:11.30
+-------------------------
+returned value: 10
+Setting I1 not to be taxed:
+Original Item but no tax:
+-------------------------
+123: abcd
+Qty: 10
+Cost:10.00
+-------------------------
+operator+=(double, Item):
+100.00=100.00
+
+Admiral.Ackbar@matrix:~/oop244/OOP-Milestone3> exit
+exit
+
+Script done on Wed 22 Mar 2017 12:00:35 PM EDT

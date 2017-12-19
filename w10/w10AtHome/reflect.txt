@@ -1,0 +1,7 @@
+1. I cannot compile project. compiler compiles and binds template code in compile process not in runtime process. other code's process is compile and linking. so if template is seperated, compiler cannot find declaration to bind.
+
+2. 6 digit.
+
+3. we use template and write short code. if we overload function, we have to make each data type functions.
+
+4.  equivalent.

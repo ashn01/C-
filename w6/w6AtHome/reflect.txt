@@ -1,0 +1,5 @@
+1. because when the copy assignment operator can delete memory allocation if it is self-assignment. so we lose data.
+
+2. copy constructor needed when a class uses dynamic memory allocation because if don't use it, the dynamic memory allocation points same address of data. It means one delete memory allocation, the another which is generated as copy, will lose the data because it is also pointing the same address. copy assignment operator are same.
+
+3. when maintaining the code, we do not have to change duplicated code. and make code short. you dont want to write same code again. 
