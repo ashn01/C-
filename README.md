@@ -1,6 +1,6 @@
 __This is what I have done in OOP244 class.__
 
-There are 5 milestones folder starting with m, and 10 workshops folder starting with w.
+There are 5 milestones folder starting with "m", and 10 workshops folder starting with "w".
 
 * For the milestones, I developed a **Point Of Sales** program. From milestone 1 to 5, I added several modules, and finally created a POS program.
 
